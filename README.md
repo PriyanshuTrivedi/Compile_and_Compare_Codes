@@ -2,20 +2,22 @@
 **For this to work on your local computer, the c++ compiler (gcc), python interpreter (python), java compiler (jdk) should be preinstalled in the system and added to the environment path**
   
 This supports 3 languages-  
-c++  
-python  
-java (for just compiling class name **must** be **CF** and for comparing the class name for first must be **code1** and second must be **code2**)  
+* c++  
+* python  
+* java (for just compiling class name **must** be **CF** and for comparing the class name for first must be **code1** and second must be **code2**)  
   
 **Features**  
-Used reactAce for code editor, so added some themes  
-While comparing codes, testCases can be either generated or uploaded  
-It can generate testcases for random number, random string, random array, random permutation  
-It also displays error in console(if occurs)  
-After comparision of the two codes it gives the result whether their output matches or does not, and if not then where does not, also allows download of testcase after successful comparision of codes.  
-While comparision the languages of both code must be same and it checks only for WA not for TLE, will try to add this feature in future.  
-This can be used in hacking phase of codeforces.....  
   
-Thes are the screenshots  
+* Used reactAce for code editor, so added some themes  
+* While comparing codes, testCases can be either generated or uploaded  
+* It can generate testcases for random number, random string, random array, random permutation  
+* It also displays error in console(if occurs)  
+* After comparision of the two codes it gives the result whether their output matches or does not, and if not then where does not, also allows download of testcase after successful comparision of codes.  
+* While comparision the languages of both code must be same and it checks only for WA not for TLE, will try to add this feature in future.
+  
+*This can be used in hacking phase of codeforces.....*  
+  
+**Screenshots**  
   
 ![Alt text](/screenShots/img1.jpeg?raw=true)
 ![Alt text](/screenShots/img2.jpeg?raw=true)
