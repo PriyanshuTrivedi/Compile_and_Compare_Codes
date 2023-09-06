@@ -1,5 +1,6 @@
 
 **For this to work on your local computer, the c++ compiler (gcc), python interpreter (python), java compiler (jdk) should be preinstalled in the system and added to the environment path**
+
 I could not host heroku, as the codes might not run according to the code written
 
 This supports 3 languages-
@@ -18,12 +19,12 @@ This can be used in hacking phase of codeforces.....
 
 Thes are the screenshots
 
-![Alt text](/screenShots/img1.jpg?raw=true)
-![Alt text](/screenShots/img2.jpg?raw=true)
-![Alt text](/screenShots/img3.jpg?raw=true)
-![Alt text](/screenShots/img4.jpg?raw=true)
-![Alt text](/screenShots/img5.jpg?raw=true)
-![Alt text](/screenShots/img6.jpg?raw=true)
-![Alt text](/screenShots/img7.jpg?raw=true)
-![Alt text](/screenShots/img8.jpg?raw=true)
-![Alt text](/screenShots/img9.jpg?raw=true)
+![Alt text](/screenShots/img1.jpeg?raw=true)
+![Alt text](/screenShots/img2.jpeg?raw=true)
+![Alt text](/screenShots/img3.jpeg?raw=true)
+![Alt text](/screenShots/img4.jpeg?raw=true)
+![Alt text](/screenShots/img5.jpeg?raw=true)
+![Alt text](/screenShots/img6.jpeg?raw=true)
+![Alt text](/screenShots/img7.jpeg?raw=true)
+![Alt text](/screenShots/img8.jpeg?raw=true)
+![Alt text](/screenShots/img9.jpeg?raw=true)
