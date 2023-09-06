@@ -5,8 +5,8 @@ This supports 3 languages-
 c++  
 python  
 java (for just compiling class name **must** be **CF** and for comparing the class name for first must be **code1** and second must be **code2**)  
-
-**Features**
+  
+**Features**  
 Used reactAce for code editor, so added some themes  
 While comparing codes, testCases can be either generated or uploaded  
 It can generate testcases for random number, random string, random array, random permutation  
