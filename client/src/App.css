@@ -1,0 +1,198 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.topEditor {
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.codeArea{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 575px;
+    width: 700px;
+}
+.btn{
+    padding: 7px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    width: 80px;
+    text-align: center;
+}
+.btn:hover{
+    cursor: pointer;
+}
+.btnDiv{
+    display: flex;
+    justify-content: flex-end;
+}
+.compileArea{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 120px;
+    margin-right: 120px;
+    border: 1px solid black;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 15px;
+    backdrop-filter: blur(2px);
+    border-radius: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.inputOutputArea{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 530px;
+}
+.inputOutputArea h3{
+    margin-bottom: 7px;
+}
+.twoCodes{
+    height:450px;
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+}
+.comparetopEditor{
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.comparecodeArea{
+    height: 600px;
+    width: 1100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.compareArea{
+    display: flex;
+    justify-content: space-evenly;
+}
+.comparelanguageGenSelector{
+    width: 450px;
+    display: flex;
+    justify-content: space-between;
+}
+input{
+    width: 100px;
+}
+.generatingInputArea{
+    height: 418px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    border: 1px solid black;
+    padding: 15px;
+    margin-top: 69px;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 5px 15px;
+    backdrop-filter: blur(2px);
+    border-radius: 20px;
+    align-content: space-between
+}
+.tcasesSelector{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.tcasesInfo{
+    height: 80px;
+    width: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-top: 10px;
+}
+#arriRange{
+    display: none;
+}
+.resultArea{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    height: 225px;
+    width: 300px;
+}
+.resultArea h3,h4{
+    margin-bottom: 10px;
+}
+.downloadBtn{
+    background-color: black;
+    color: white;
+    font-size: 12px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+    width: 120px;
+}
+.downloadBtn:hover{
+    cursor: pointer;
+}
+#downloadBtn{
+    visibility: hidden;
+}
+a{
+    text-decoration: none;
+}
+#customInputArea{
+    height: 120px;
+    width: 300px;
+    display: none;
+}
+.customInp,#inputArea{
+    height: 120px;
+}
+.customInp{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#fileInput{
+    width: 300px;
+}
+.uploadBtn{
+    padding: 4px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-size: 10px;
+    width: 40px;
+    text-align: center;
+    margin-top: 13px;
+}
+.uploadBtn:hover{
+    cursor: pointer;
+}
+.headr{
+    height: 60px;
+    width: 100vw;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border-radius: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.App{
+    background-image: url('../public/photo1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+#testCaseNo,#nRange,#arriRange{
+    margin-top: 5px;
+}
+.tcasesSelector,#customInputArea,#inputArea{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

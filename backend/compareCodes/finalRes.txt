@@ -1,0 +1,1 @@
+Both the codes give the same output when run on the current inputs.
